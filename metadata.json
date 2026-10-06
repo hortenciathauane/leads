@@ -1,0 +1,8 @@
+{
+  "name": "Gestão de Vendas & Prospecção B2B",
+  "description": "Sistema comercial completo com funil de vendas, consulta de CNPJ, distribuição de leads e prospecção geográfica no mapa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
